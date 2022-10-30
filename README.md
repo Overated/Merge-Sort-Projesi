@@ -1,6 +1,6 @@
 # **Merge Sort Projesi**
 
-Bu repo [Patica.dev](https://www.patika.dev/tr) Veri Yapıları ve Algoritmalar Eğitiminde oluşturduğumuz insertion Sort Proje reposudur. İçerisinde bir adet README dosyası barındırmaktadır.
+Bu repo [Patica.dev](https://www.patika.dev/tr) Veri Yapıları ve Algoritmalar Eğitiminde oluşturduğumuz Merge Sort Projesi reposudur. İçerisinde bir adet README dosyası barındırmaktadır.
 
 ---
 
