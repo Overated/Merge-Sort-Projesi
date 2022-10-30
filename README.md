@@ -44,7 +44,8 @@ Bu repo [Patica.dev](https://www.patika.dev/tr) Veri Yapıları ve Algoritmalar 
 ## **Big-O gösterimi;**
 ----
 
-Big-O = $0(n.log(n))$
+# Big-O = **$0(n.log(n))$**
+
 
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
