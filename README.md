@@ -39,3 +39,9 @@ Bu repo [Patica.dev](https://www.patika.dev/tr) Veri Yapıları ve Algoritmalar 
     [8,11,12,16,21,22]
 ```
 ![merge](https://raw.githubusercontent.com/Overated/Merge-Sort-Projesi/main/image/a2.png)
+
+
+## **Big-O gösterimi;**
+----
+
+Big-O = $0(n.log(n))$
